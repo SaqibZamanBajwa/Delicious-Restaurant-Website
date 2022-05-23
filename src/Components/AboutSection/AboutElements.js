@@ -63,5 +63,5 @@ list-style-type: none;
 `
 
 export const AboutIconPara = styled.span`
-font-size: 14px;
+font-size: 14.5px;
 `
